@@ -73,6 +73,7 @@
 > For example 
 > ```python
 > "abcabcabc".count("a")
+> # Prints 3
 > ```
 
 `str.find(exp)`: Returns the first index that `exp` appears in `str` (returns `-1` if `exp` does not appear at all)
